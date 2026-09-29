@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>CalScout</title>
+    <item>
+      <title>CalScout 1.0 (2)</title>
+      <pubDate>Tue, 29 Sep 2026 23:19:31 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/pouladi-ca/calscout-releases/releases/download/v1.0-2/CalScout-1.0-2.zip" sparkle:edSignature="7fP/kMcfc6Gt0e9hRWAJ9ElB9qeA4oggW+4omHHShJYQGo6MJcP5tEUsWu+P/JwaXCJFgvF+xGKVID6YBc2qAA==" length="1644404" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
