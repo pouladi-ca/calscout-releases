@@ -18,5 +18,13 @@
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/pouladi-ca/calscout-releases/releases/download/v1.0-3/CalScout-1.0-3.zip" sparkle:edSignature="miwVplazVz210p877BJ48fNEkSLqWtkdWgH+o+IkYHiy5nZD5x/oFNFgwwEyLEGtahhNfbDIi0YtGSq7k5W4CA==" length="1683883" type="application/octet-stream"/>
     </item>
+    <item>
+      <title>CalScout 1.0 (4)</title>
+      <pubDate>Wed, 30 Sep 2026 00:35:15 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/pouladi-ca/calscout-releases/releases/download/v1.0-4/CalScout-1.0-4.zip" sparkle:edSignature="9sbDmKIm3GQ56NS4acN7PThhh6taBaAs0/QagsODyzAUeti03XbOczYPkHShyKNL0vtIDXiQNBoTwe9KVutaBA==" length="1813572" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
